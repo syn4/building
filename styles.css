@@ -246,7 +246,10 @@ animation: animate-wave 500ms infinite ease-in-out;
   flex: 1;
   display: flex;
   align-items: center;
-  margin-top: 150px;
+  justify-content: center;
+  margin-top: 100px;
+  width: 90%;
+  
 }
 .about-me__img {
   width: 100%;
